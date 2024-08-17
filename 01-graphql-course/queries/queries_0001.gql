@@ -1,0 +1,13 @@
+query GetHello {
+  users {
+    id
+    userName
+  }
+}
+
+query GetHello {
+  user {
+    id
+    userName
+  }
+}
